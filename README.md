@@ -1,1 +1,1 @@
-# starnet-installation
+# StarkNet-installation
